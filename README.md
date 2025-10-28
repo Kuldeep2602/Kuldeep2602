@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeep2602&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeep2602" /> </p>
 
-- 🔭 I’m currently working on **Board**
+- 🔭 I’m currently working with **Whatbytes**
 
 - 🤝 I’m looking for help with **Open source contribution**
 
@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeep2602&show_icons=true&locale=en&layout=compact" alt="kuldeep2602" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeep2602&show_icons=true&locale=en" alt="kuldeep2602" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeep2602&show_icons=true&locale=en" alt="kuldeep2602" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeep2602&" alt="kuldeep2602" /></p>
